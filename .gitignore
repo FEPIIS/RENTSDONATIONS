@@ -1,0 +1,21 @@
+# Dependencias
+node_modules/
+.env
+
+# Directorios de caché
+.cache/
+dist/
+build/
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Archivos de logs
+npm-debug.log
+yarn-error.log
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
